@@ -1,0 +1,21 @@
+1. document root adalah direktori atau folder di mana file-file situs web disimpan dan diakses oleh pengguna melalui browser
+
+2.Tidak harus. Meskipun C:\xampp\htdocs adalah lokasi default untuk document root pada instalasi XAMPP di Windows, Anda dapat mengubahnya sesuai kebutuhan.
+
+3.git init:Perintah ini digunakan untuk membuat repositori Git baru di direktori proyek Anda. Ini adalah langkah awal untuk memulai version control dengan Git
+  git clone:Perintah ini digunakan untuk menyalin repositori Git yang sudah ada dari remote server (seperti GitHub, GitLab, atau Bitbucket) ke komputer lokal Anda
+  git remote:Perintah ini digunakan untuk mengelola koneksi ke repositori remote. Anda dapat menambahkan, menghapus, atau melihat daftar remote repositori yang terhubung dengan repositori lokal Anda.
+  git add: Perintah ini digunakan untuk menambahkan perubahan file ke dalam staging area. Staging area adalah tempat di mana Anda memilih perubahan mana yang ingin Anda sertakan dalam commit selanjutnya.
+  git commit:Perintah ini digunakan untuk menyimpan perubahan yang ada di staging area ke dalam repositori lokal. Setiap commit memiliki pesan yang menjelaskan perubahan yang dilakukan.
+  git push: Perintah ini digunakan untuk mengirim perubahan dari repositori lokal Anda ke repositori remote. Ini memungkinkan Anda untuk berbagi perubahan dengan orang lain atau mencadangkan kode Anda di server.
+  git checkout :Perintah ini digunakan untuk berpindah antar branch atau mengembalikan file ke versi sebelumnya.
+
+4.GitHub : Platform hosting repositori kode berbasis cloud yang populer, terutama digunakan untuk kolaborasi pengembangan perangkat lunak.
+  GitLab : Platform DevOps lengkap yang menyediakan fitur hosting repositori kode, CI/CD, manajemen proyek, dan banyak lagi
+
+5.variabel user :Variabel yang nilainya ditentukan atau dimodifikasi oleh pengguna. Variabel ini biasanya digunakan untuk menyimpan informasi atau preferensi yang berkaitan dengan pengguna.
+  variabel sistem :  Variabel yang nilainya ditentukan atau dikelola oleh sistem operasi atau aplikasi. Variabel ini biasanya berisi informasi tentang status sistem, lingkungan, atau konfigurasi
+
+6.vaiabel sistem: Variabel yang nilainya ditentukan dan dikelola oleh sistem operasi atau aplikasi. Variabel ini biasanya berisi informasi tentang konfigurasi sistem, lingkungan, atau status sistem.
+  variabel konstanta:Variabel yang nilainya tetap dan tidak dapat diubah setelah didefinisikan. Variabel ini biasanya digunakan untuk menyimpan nilai yang bersifat tetap atau konstanta
+  
