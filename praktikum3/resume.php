@@ -27,8 +27,8 @@
                 <div class="bg-light p-4 rounded-4">
                     <div class="text-primary fw-bolder mb-2">2015 - 2016</div>
                     <div class="small fw-bolder">Anggota OSIS</div>
-                    <div class="small text-muted">SMP Negeri 4 Jakarta</div>
-                    <div class="small text-muted">Jakarta Pusat, Indonesia</div>
+                    <div class="small text-muted">MTS AL_ISLAMIYAH </div>
+                    <div class="small text-muted">Jakarta Selatan, Indonesia</div>
                 </div>
             </div>
             <div class="col-lg-8"><div>Sebagai anggota OSIS, saya aktif berpartisipasi dalam berbagai kegiatan sekolah, termasuk organisasi acara, bakti sosial, dan program-program yang mendukung pengembangan karakter siswa. Pengalaman ini melatih kemampuan kerja sama tim, kepemimpinan, dan manajemen waktu.</div></div>
@@ -42,12 +42,12 @@
             <div class="col text-center text-lg-start mb-4 mb-lg-0">
                 <div class="bg-light p-4 rounded-4">
                     <div class="text-primary fw-bolder mb-2">2018 - 2019</div>
-                    <div class="small fw-bolder">Panitia Event Tahunan SELARAS</div>
-                    <div class="small text-muted">SMA Negeri 1 Jakarta</div>
-                    <div class="small text-muted">Jakarta Pusat, Indonesia</div>
+                    <div class="small fw-bolder">anggota Hijar</div>
+                    <div class="small text-muted">SMA AL_ISLAMIYAH PUI JAKARTA SELATAN </div>
+                    <div class="small text-muted">Jakarta Selatan, Indonesia</div>
                 </div>
             </div>
-            <div class="col-lg-8"><div>Saya terlibat sebagai panitia dalam acara tahunan sekolah bernama SELARAS (Semarak Langkah Kreativitas Siswa). Tugas saya mencakup koordinasi acara, pengelolaan logistik, dan komunikasi dengan peserta serta sponsor. Pengalaman ini mengasah kemampuan manajemen proyek, komunikasi, dan pemecahan masalah.</div></div>
+            <div class="col-lg-8"><div>saya menjabat sebagai devisi keamanan</div></div>
         </div>
     </div>
 </div>
@@ -63,12 +63,12 @@
                                             <div class="bg-light p-4 rounded-4">
                                                 <div class="text-secondary fw-bolder mb-2">2019 - 2023</div>
                                                 <div class="mb-2">
-                                                    <div class="small fw-bolder">SMA Negeri 1 Jakarta</div>
-                                                    <div class="small text-muted">Jakarta Pusat, Indonesia</div>
+                                                    <div class="small fw-bolder">SMa AL_ISLAMIYAH Jakarta</div>
+                                                    <div class="small text-muted">Jakarta Selatan, Indonesia</div>
                                                 </div>
                                                 <div class="fst-italic">
                                                     <div class="small text-muted">Sekolah Menengah Atas</div>
-                                                    <div class="small text-muted">Jurusan IPA</div>
+                                                    <div class="small text-muted">Jurusan IPSGIT</div>
                                                 </div>
                                             </div>
                                         </div>

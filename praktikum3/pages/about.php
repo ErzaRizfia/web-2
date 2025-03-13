@@ -6,7 +6,7 @@
                             <div class="text-center my-5">
                                 <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">Tentang saya</span></h2>
                                 <p class="lead fw-light mb-4">Erza Rizfia Widiarti</p>
-                                <p class="text-muted">Nama Erza memiliki arti yairu kekuatan</p>
+                                <p class="text-muted">Nama Erza memiliki arti yaitu kekuatan</p>
                                 <div class="d-flex justify-content-center fs-2 gap-4">
                                     <a class="text-gradient" href="#!"><i class="bi bi-twitter"></i></a>
                                     <a class="text-gradient" href="#!"><i class="bi bi-linkedin"></i></a>
